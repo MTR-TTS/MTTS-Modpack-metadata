@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "importer.py"
-hash = "2c5da606dbd8235303fa4d065b277e65e737337c6c7e3e64e70e754feb1ff5f9"
-
-[[files]]
 file = "mods/architectury-6-6-92-fabric-jar.pw.toml"
 hash = "a7f7c1e3593c1541bc77a002bebf9d73a83c6fd52b741bdcb768b5e68e420015"
 metafile = true
