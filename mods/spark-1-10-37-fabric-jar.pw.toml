@@ -1,0 +1,7 @@
+name = "spark-1.10.37-fabric.jar"
+filename = "spark-1.10.37-fabric.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/l6YH9Als/versions/XhFbpH8f/spark-1.10.37-fabric.jar"
+hash-format = "sha256"
+hash = "f778e98787946a8694ce603b963d8ba9077370f474384da38c607bcf4bb774ef"

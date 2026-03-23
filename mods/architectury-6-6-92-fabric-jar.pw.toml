@@ -1,0 +1,7 @@
+name = "architectury-6.6.92-fabric.jar"
+filename = "architectury-6.6.92-fabric.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/cde9Su0w/architectury-6.6.92-fabric.jar"
+hash-format = "sha256"
+hash = "072d19cbe1dcf46588c815371b5a3186ff84512bbd29ed06bc74969bb3857543"

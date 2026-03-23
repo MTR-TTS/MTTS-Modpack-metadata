@@ -1,0 +1,7 @@
+name = "memory_clear-1.0.0-fabric-1.19.2.jar"
+filename = "memory_clear-1.0.0-fabric-1.19.2.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/b6pWZB37/versions/8oeYao3a/memory_clear-1.0.0-fabric-1.19.2.jar"
+hash-format = "sha256"
+hash = "df40e9a6561a831baa498785056072557d3e1c794e59c8a6298b29e03d1ee4f7"

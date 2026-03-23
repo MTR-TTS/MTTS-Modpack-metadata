@@ -1,0 +1,7 @@
+name = "ferritecore-5.0.3-fabric.jar"
+filename = "ferritecore-5.0.3-fabric.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/uXXizFIs/versions/kwjHqfz7/ferritecore-5.0.3-fabric.jar"
+hash-format = "sha256"
+hash = "ebb90e7d95a5405c20312459d03234519ab5202a501c34bef73eca9db82434c7"

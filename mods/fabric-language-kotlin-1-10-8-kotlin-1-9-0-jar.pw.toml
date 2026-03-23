@@ -1,0 +1,7 @@
+name = "fabric-language-kotlin-1.10.8+kotlin.1.9.0.jar"
+filename = "fabric-language-kotlin-1.10.8+kotlin.1.9.0.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/s10JMAtS/fabric-language-kotlin-1.10.8%2Bkotlin.1.9.0.jar"
+hash-format = "sha256"
+hash = "81d7e722978c871ce7f112af64c8434848977896b1ddaca9eed7c3e786dad7e7"
