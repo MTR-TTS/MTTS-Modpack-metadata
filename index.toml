@@ -281,6 +281,11 @@ hash = "26db301a1d6b702712097f216d5212c6b5c6fcc365d52f8d5811a25e8b2350fe"
 metafile = true
 
 [[files]]
+file = "mods/tokyometroaddon.pw.toml"
+hash = "39dd0294654d643688328735c8842ce6d61faeb68a30b3fafbdfb800cbda23fa"
+metafile = true
+
+[[files]]
 file = "mods/trafficcraft-fabric-1-19-2-1-1-3-jar.pw.toml"
 hash = "6c4fdcc884eaec70d9c4f767000f3f1955fa88d49835a025c302c7fe837f3773"
 metafile = true
