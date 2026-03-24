@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modpack Metadata Overview</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-dark: #0a0c10;
+            --card-dark: #161b22;
+            --border-dark: #30363d;
+            --accent-blue: #58a6ff;
+            --accent-purple: #bc8cff;
+        }
+        body {
+            background-color: var(--bg-dark);
+            font-family: 'Inter', sans-serif;
+            color: #c9d1d9;
+        }
+        .code-font {
+            font-family: 'JetBrains Mono', monospace;
+        }
+        .gradient-text {
+            background: linear-gradient(90deg, #58a6ff, #bc8cff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+    </style>
+</head>
+<body class="min-h-screen flex flex-col items-center py-12 px-4">
+
+    <!-- Header Section -->
+    <header class="max-w-4xl w-full text-center mb-16">
+        <div class="inline-block px-3 py-1 mb-4 text-xs font-semibold tracking-wider text-blue-400 uppercase bg-blue-900/30 border border-blue-800 rounded-full">
+            Infrastructure Documentation
+        </div>
+        <h1 class="text-4xl md:text-5xl font-extrabold text-white mb-6">
+            Modpack <span class="gradient-text">Metadata</span> Source
+        </h1>
+        <p class="text-lg text-gray-400 max-w-2xl mx-auto leading-relaxed border-l-4 border-blue-500 pl-6 text-left italic">
+            本ページはModpackのメタデータ管理構造を定義するものです。
+            ユーザー側の操作は必要なく、すべての構成管理は管理リポジトリ上のGitワークフローによって完結します。
+        </p>
+    </header>
+
+    <!-- Tech Stack Grid -->
+    <main class="max-w-5xl w-full grid grid-cols-1 md:grid-cols-2 gap-8 mb-16">
+        
+        <!-- Logic Card: Git & Source Control -->
+        <div class="bg-[#161b22] border border-[#30363d] rounded-xl p-8 hover:border-blue-500/50 transition-all">
+            <div class="flex items-center gap-4 mb-6">
+                <div class="p-3 bg-blue-500/10 rounded-lg">
+                    <svg class="w-8 h-8 text-blue-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7v8a2 2 0 002 2h6M8 7V5a2 2 0 012-2h4.586a1 1 0 01.707.293l4.414 4.414a1 1 0 01.293.707V15a2 2 0 01-2 2h-2M8 7H6a2 2 0 00-2 2v10a2 2 0 002 2h8a2 2 0 002-2v-2"></path>
+                    </svg>
+                </div>
+                <div>
+                    <h2 class="text-xl font-bold text-white text-blue-400">Single Source of Truth</h2>
+                    <p class="text-sm text-gray-500">Source Control via Git</p>
+                </div>
+            </div>
+            <p class="text-gray-400 leading-relaxed mb-6">
+                すべてのメタデータ、設定ファイル、およびModのリストはGitリポジトリで厳格に管理されています。
+                変更履歴はすべてコミットとして記録され、ロールバックや差分確認が容易です。
+            </p>
+            <div class="flex items-center gap-2 text-sm text-gray-500 code-font bg-black/30 p-3 rounded border border-white/5">
+                <span class="text-green-500">$</span>
+                    git commit -m "comment"<br>
+            </div>
+            <div class="flex items-center gap-2 text-sm text-gray-500 code-font bg-black/30 p-3 rounded border border-white/5">
+                <span class="text-green-500">$</span>
+                    git push origin ****<br>
+            </div>
+        </div>
+
+        <!-- Logic Card: packwiz & TOML -->
+        <div class="bg-[#161b22] border border-[#30363d] rounded-xl p-8 hover:border-purple-500/50 transition-all">
+            <div class="flex items-center gap-4 mb-6">
+                <div class="p-3 bg-purple-500/10 rounded-lg">
+                    <svg class="w-8 h-8 text-purple-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 4a2 2 0 114 0v1a2 2 0 002 2h3a2 2 0 012 2v11a2 2 0 01-2 2H5a2 2 0 01-2-2V9a2 2 0 012-2h3a2 2 0 002-2V4z"></path>
+                    </svg>
+                </div>
+                <div>
+                    <h2 class="text-xl font-bold text-white text-purple-400">Metadata Architecture</h2>
+                    <p class="text-sm text-gray-500">packwiz + TOML Format</p>
+                </div>
+            </div>
+            <p class="text-gray-400 leading-relaxed mb-6">
+                管理者は<b>packwiz</b>を使用し、ModデータをTOML形式で保持します。
+                バイナリファイルではなくテキストベースで定義されるため、リポジトリの軽量化と可読性の向上を両立しています。
+            </p>
+            <div class="bg-black/50 rounded-lg p-4 border border-[#30363d]">
+                <code class="code-font text-xs text-purple-300">
+                    hash-format = "sha256"<br>
+                    [[files]]<br>
+                    file = "mods/example.pw.toml"<br>
+                    hash = "*******"<br>
+                    metafile = true
+                </code>
+            </div>
+        </div>
+    </main>
+
+    <!-- Management Principles Section -->
+    <section class="max-w-4xl w-full">
+        <div class="bg-[#161b22] border border-[#30363d] rounded-2xl p-8 overflow-hidden relative">
+            <div class="absolute top-0 right-0 p-4 opacity-10">
+                <svg class="w-24 h-24 text-white" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C6.477 2 2 6.477 2 12c0 4.419 2.865 8.166 6.839 9.489.5.092.682-.217.682-.482 0-.237-.008-.866-.013-1.7-2.782.604-3.369-1.34-3.369-1.34-.454-1.156-1.11-1.463-1.11-1.463-.908-.62.069-.608.069-.608 1.003.07 1.531 1.03 1.531 1.03.892 1.529 2.341 1.087 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.27.098-2.647 0 0 .84-.269 2.75 1.025A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.294 2.747-1.025 2.747-1.025.546 1.377.203 2.394.1 2.647.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482C19.138 20.161 22 16.416 22 12c0-5.523-4.477-10-10-10z"/></svg>
+            </div>
+            <h3 class="text-xl font-bold text-white mb-6">Management Principles</h3>
+            <div class="space-y-4">
+                <div class="flex items-start gap-4">
+                    <div class="mt-1 w-2 h-2 bg-blue-500 rounded-full shadow-[0_0_8px_rgba(59,130,246,0.5)]"></div>
+                    <p class="text-sm text-gray-400 font-medium">変更はすべてGitコミットによって追跡され、メタデータの整合性はpackwizによって検証されます。</p>
+                </div>
+                <div class="flex items-start gap-4">
+                    <div class="mt-1 w-2 h-2 bg-blue-500 rounded-full shadow-[0_0_8px_rgba(59,130,246,0.5)]"></div>
+                    <p class="text-sm text-gray-400 font-medium">TOMLファイルはModのメタデータ（名称、ID、ハッシュ値、URL）を正確に保持します。</p>
+                </div>
+                <div class="flex items-start gap-4">
+                    <div class="mt-1 w-2 h-2 bg-blue-500 rounded-full shadow-[0_0_8px_rgba(59,130,246,0.5)]"></div>
+                    <p class="text-sm text-gray-400 font-medium">配布用インデックス（index.toml）は、packwiz-installerが各クライアントを同期するために参照する唯一の定義です。</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer Status -->
+    <footer class="mt-12 text-center text-gray-600 text-xs">
+        <p class="flex items-center justify-center gap-2">
+            System: Metadata Repository · Protocol: Git/TOML · Engine: packwiz
+        </p>
+    </footer>
+
+</body>
+</html>
