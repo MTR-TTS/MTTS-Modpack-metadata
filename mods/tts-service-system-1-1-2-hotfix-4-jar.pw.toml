@@ -3,5 +3,5 @@ filename = "tts-service-system-1.1.2-hotfix-4.jar"
 
 [download]
 url = "https://drive.google.com/uc?export=view&id=1VNxe1ilpQiJYNBgvKSwfpdj-uH33hr4E"
-hash-format = "sha256"
-hash = "fe05d07bebf830b19c5196de88934a07062018891c1203f69e3c8ef2f36abd41"
+hash-format = "sha512"
+hash = "165a292881c5307686075a50318e1585da0827f4e967a373ecda6424c71e16216433e752effedc308cf9cd663f0b7cad271ffe9c972cc76f43e9ea45b4919e6d"

@@ -3,5 +3,5 @@ filename = "MTR-fabric-1.19.2-3.2.2-hotfix-1.jar"
 
 [download]
 url = "https://cdn.modrinth.com/data/XKPAmI6u/versions/H0yHV2yE/MTR-fabric-1.19.2-3.2.2-hotfix-1.jar"
-hash-format = "sha256"
-hash = "fe122776062a0c8f4b4c31fda3979b81c7f66897740f649672213c389eeea35f"
+hash-format = "sha512"
+hash = "275e42ed4e9074d4699b776450ff696871a95fbfe7a3eb177eb7f502591ea271956e68d08329c6b588fd905b98b9c1140e926795c760f07a26feed2dd174439e"

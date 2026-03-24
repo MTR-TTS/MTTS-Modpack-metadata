@@ -3,5 +3,5 @@ filename = "memoryusagetitle-fabric-1.0.1.jar"
 
 [download]
 url = "https://cdn.modrinth.com/data/YvaL4yx6/versions/XPPqn7mZ/memoryusagetitle-fabric-1.0.1.jar"
-hash-format = "sha256"
-hash = "bd4dedfbdb81260f8272587c19abbb3a133cd11cfc6f079dfea768d5ae46d2ab"
+hash-format = "sha512"
+hash = "9c940ac1907910857b74a760da9c3db13f0904a5ed23bf20c649b0c6636c6e9860aec79912dbedad795461b48225740a5ffca8259d4cb3a6f84abe752325ea6a"

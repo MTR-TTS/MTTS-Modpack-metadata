@@ -3,5 +3,5 @@ filename = "Metropolis-0.3.0-beta-MTR3.2.2+fabric-1.19.2_20250618.jar"
 
 [download]
 url = "https://cdn.modrinth.com/data/g5AOeP4R/versions/20vge4K2/Metropolis-0.3.0-beta-MTR3.2.2%2Bfabric-1.19.2_20250618.jar"
-hash-format = "sha256"
-hash = "8e66769870468a411a895e28f5e6f0d8b5b2d0b0523abd3aa9789a4d4a513d6d"
+hash-format = "sha512"
+hash = "790d026d3ae1e85003ee5271f620312ec4fa26ca8305799f98b1de59062a5261721b43a50d896a43fe1a6b48d2f84c14d6d8265a2fb446fe8e205b8f398de0e4"
