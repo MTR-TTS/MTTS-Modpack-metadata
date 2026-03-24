@@ -226,8 +226,8 @@ hash = "7e706d786c0193a854c73ca8579e58ce70da58fff395b991c32e6d3d01abb3c3"
 metafile = true
 
 [[files]]
-file = "mods/mtr3-next-technology-addon-1-1-5-jar.pw.toml"
-hash = "ac1b814241cf6a3ef92d9c80500f335fe4fef349b9f11510d502a5a8e7525236"
+file = "mods/mtr3-next-technology-addon-1-1-8-jar.pw.toml"
+hash = "29839b616932729e22228685d0f74c2720152057022e0fef5a9c668fff9c7246"
 metafile = true
 
 [[files]]
