@@ -3,8 +3,8 @@ filename = "tokyometroaddon-1.19.2-0.0.1hotfix-beta.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ba439e212b4f7818d4f9a7cd88230f7975da1c7b"
+hash-format = "sha256"
+hash = "14cb35a4b07f1f19d1173160199991cfb8580d1f6bb907f3e528adfe9d823bc8"
 mode = "metadata:curseforge"
 
 [update]

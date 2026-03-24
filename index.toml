@@ -246,6 +246,11 @@ hash = "fa68cf423aae1c08c99b92ef8b2631d601fbd12533448a69b853a9241401f2f1"
 metafile = true
 
 [[files]]
+file = "mods/replaymod.pw.toml"
+hash = "ab7b5f13c019abdf951cf2584d3e41b0033dfb27b83414d85c5246aa1a316722"
+metafile = true
+
+[[files]]
 file = "mods/resourcefullib-fabric-1-19-2-1-1-24-jar.pw.toml"
 hash = "f3b43227a2ee9be3839221d331ca19c625ff736d6df24e49130707db7b1c3f7e"
 metafile = true
@@ -282,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/tokyometroaddon.pw.toml"
-hash = "39dd0294654d643688328735c8842ce6d61faeb68a30b3fafbdfb800cbda23fa"
+hash = "f4db4a76af6080dab639ecd0c96dce9ced6238dde9cdf2097f01c0fcf305575a"
 metafile = true
 
 [[files]]
