@@ -1,0 +1,7 @@
+name = "bobby-4.0.1.jar"
+filename = "bobby-4.0.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/M08ruV16/versions/5UUzbXgz/bobby-4.0.1.jar"
+hash-format = "sha256"
+hash = "cd52b9688177ff052969e255d83ab222770d9c22b476b287ff8a82d3545e8530"

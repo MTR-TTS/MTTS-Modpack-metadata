@@ -1,0 +1,7 @@
+name = "yuushya-1.19.2-fabric-2.2.3.jar"
+filename = "yuushya-1.19.2-fabric-2.2.3.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/lfVtagkm/versions/tGY3x6wk/yuushya-1.19.2-fabric-2.2.3.jar"
+hash-format = "sha256"
+hash = "bd5b12fcd7146f9d1eefb0b3a5b1134a36c700422a1109f08015cda7dcafa17c"

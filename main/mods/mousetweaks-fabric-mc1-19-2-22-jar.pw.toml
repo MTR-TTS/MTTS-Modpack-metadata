@@ -1,0 +1,7 @@
+name = "MouseTweaks-fabric-mc1.19-2.22.jar"
+filename = "MouseTweaks-fabric-mc1.19-2.22.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/aC3cM3Vq/versions/1.19-2.22-fabric/MouseTweaks-fabric-mc1.19-2.22.jar"
+hash-format = "sha256"
+hash = "de3013e75ff44d20d4f79e8d517d2485cfd4a23654a09c40eff5fee396b836d6"

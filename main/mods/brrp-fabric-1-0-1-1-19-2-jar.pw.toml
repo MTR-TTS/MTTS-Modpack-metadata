@@ -1,0 +1,7 @@
+name = "brrp-fabric-1.0.1-1.19.2.jar"
+filename = "brrp-fabric-1.0.1-1.19.2.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/JnrDtPAE/versions/hlpWCpdb/brrp-fabric-1.0.1-1.19.2.jar"
+hash-format = "sha256"
+hash = "ea52f961aa24981d7c00e16f7fb1701419159d7aaa7f460aaafb173306e77d17"

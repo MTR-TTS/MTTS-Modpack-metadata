@@ -1,0 +1,7 @@
+name = "videotape-1.5.1.jar"
+filename = "videotape-1.5.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/LVTZtqlk/versions/DkDOvk0p/videotape-1.5.1.jar"
+hash-format = "sha256"
+hash = "8364825f089739af444c97203409b63a353b533ac0454f1d4e59958fcb6d3473"

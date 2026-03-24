@@ -1,0 +1,316 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/architectury-6-6-92-fabric-jar.pw.toml"
+hash = "a7f7c1e3593c1541bc77a002bebf9d73a83c6fd52b741bdcb768b5e68e420015"
+metafile = true
+
+[[files]]
+file = "mods/bitsandchisels-2-7-0-jar.pw.toml"
+hash = "91a577401205de208a0da58c8020708ec9c61a4515c97e6be395b0f8e577bae5"
+metafile = true
+
+[[files]]
+file = "mods/block-entity-extended-rendering-2-0-0-jar.pw.toml"
+hash = "03a3acd1fc338326db04cd5278b951f6dfb7188c1d3960f5c33f12a4567adaff"
+metafile = true
+
+[[files]]
+file = "mods/blockus-2-5-11-1-19-2-jar.pw.toml"
+hash = "6828165139dd44322b48567a0419661dc54eae5fd0e5b93d36189acd7dd52cde"
+metafile = true
+
+[[files]]
+file = "mods/bobby-4-0-1-jar.pw.toml"
+hash = "482b9cc2a29aaf83876b5050ea908e10485e14fdfa818e1bb6834e99355b9766"
+metafile = true
+
+[[files]]
+file = "mods/brrp-fabric-1-0-1-1-19-2-jar.pw.toml"
+hash = "b83a010cbabcb90cfcaa222f32b978d2ceec9b67655ce5a4a3efd6deb77a8245"
+metafile = true
+
+[[files]]
+file = "mods/chipped-fabric-1-19-2-2-1-5-jar.pw.toml"
+hash = "463c1f704c1b61929278975df62d80f87bdc446c6e52a7063ecc1e0d1b233136"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config-8-3-103-fabric-jar.pw.toml"
+hash = "2f4e8d34565206c080fa1fbb61c755d2bcef2a865631ad6afdea61cfb6fe9481"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons-2-4-5-b-1-19-2-fabric-forge-jar.pw.toml"
+hash = "b7f75e8ba033ab0b519137a88627fded9ee6cb2de6175b25b5828e79f418cfc4"
+metafile = true
+
+[[files]]
+file = "mods/dynamicsurroundings-remasteredfabric-1-19-0-1-1-jar.pw.toml"
+hash = "3c729049fbad6379bda64633b3208ef0ccb7fc8463c796191ff3d94beae54ea9"
+metafile = true
+
+[[files]]
+file = "mods/effortless-1-19-2-3-4-0-jar.pw.toml"
+hash = "d08cea5071c7f30822ccfaf8af4ce6ee4f90bac0d8c36fae19397e93c89e48c6"
+metafile = true
+
+[[files]]
+file = "mods/entity-view-distance-1-0-2-1-19-jar.pw.toml"
+hash = "e3444f8a4040e89ff9546279e559a60a9a6fd5247909284d6635dc67911719e5"
+metafile = true
+
+[[files]]
+file = "mods/entityculling-fabric-1-6-1-mc1-19-2-jar.pw.toml"
+hash = "0e945056987f5ce1a6167fb8055fdbb18c89bddc1551b491019d50fe6b88a8cd"
+metafile = true
+
+[[files]]
+file = "mods/f3-anywhere-1-0-0-jar.pw.toml"
+hash = "5b614149c81aa4d9ce87acab8f262b392cc05112408a81fb91d3d559538fed90"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api-0-77-0-1-19-2-jar.pw.toml"
+hash = "e3a5f0b387958812575efffc7fb483afc67d44fba4cb0f30521f386e961e226b"
+metafile = true
+
+[[files]]
+file = "mods/fabric-carpet-1-19-2-1-4-84-v221018-jar.pw.toml"
+hash = "420e53145b512aed82a7a8e0bedd6df04cd5c03a8692e49c053650cd9970f5c5"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin-1-10-8-kotlin-1-9-0-jar.pw.toml"
+hash = "6cf38823e852ed7958237a55dc342a2043161266cdf7a38eab43d329c6afb8ba"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-5-0-3-fabric-jar.pw.toml"
+hash = "33c64af62ba7723c2dff6a9f862a72a3a821275d92fec2a8ff182dcf7fc50d9a"
+metafile = true
+
+[[files]]
+file = "mods/figura-0-1-5-1-19-2-fabric-mc-jar.pw.toml"
+hash = "692241541728ee14fb493fe44bfb79e922cbd7fb9cb50fcaab077caec0218402"
+metafile = true
+
+[[files]]
+file = "mods/geckolib-fabric-1-19-3-1-40-jar.pw.toml"
+hash = "0ad978acbd3b59a8c75ad20ed9e29d79be3b0646cf83815a337a4d846261c9d3"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast-fabric-1-4-0-1-19-2-jar.pw.toml"
+hash = "cb6c85640599e1fa721fadfba20b440f3ffff680364673e115f26bf4cd3a6e82"
+metafile = true
+
+[[files]]
+file = "mods/indium-1-0-9-mc1-19-2-jar.pw.toml"
+hash = "843baf12bf8ac27e7840d7e8c37799dbd18fd6dc0f6f69bff0216a5738d699a2"
+metafile = true
+
+[[files]]
+file = "mods/jade-1-19-1-fabric-8-7-3-jar.pw.toml"
+hash = "d51cdc9ff8b732b75182cb9430f8c2b410f6fb457c192fb690a1b715b4b5a633"
+metafile = true
+
+[[files]]
+file = "mods/japanish-1-19-2-0-9-fabric-jar.pw.toml"
+hash = "506d05c34e99c3cac153df7a46c879e1e691cae3c03d142cca5aabf145d557b4"
+metafile = true
+
+[[files]]
+file = "mods/japaniture-1-19-2-3-0-0-jar.pw.toml"
+hash = "dc0b984908768952a397aa167aa750e65e58da95df4d14ea7a821df03d13897b"
+metafile = true
+
+[[files]]
+file = "mods/joban-client-mod-1-19-2-1-2-2-jar.pw.toml"
+hash = "9faa8b04b8feb8b71e1d17e6d63488e446f4cdf04c0cdf10262f7f024f05d072"
+metafile = true
+
+[[files]]
+file = "mods/journeymap-1-19-2-5-9-8-fabric-jar.pw.toml"
+hash = "34b7e8c7f75f34fa388cfed4c590a68cd79e01a0c5678886ad568ea29a1d8225"
+metafile = true
+
+[[files]]
+file = "mods/language-reload-1-6-1-1-19-2-jar.pw.toml"
+hash = "c4c92c32548c10eb392407a83698532980696c6523de8acd92cbf39e9a790f9d"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu-0-1-3-jar.pw.toml"
+hash = "452b24baca1ce83c8e28be4a06dcbd03022109805358c9beda04ec1053e8eff5"
+metafile = true
+
+[[files]]
+file = "mods/lithium-fabric-mc1-19-2-0-11-1-jar.pw.toml"
+hash = "0b36e60aaded960b74c09bafaaa1dce6194a4d783a8b419c7c96afa67a56b7c6"
+metafile = true
+
+[[files]]
+file = "mods/manual-enchance-fabric-0-2-1-beta-1-19-2-jar.pw.toml"
+hash = "10b298c27c3a524869ac175a0b4d3148111111a56b2a3652c8a89c391e9f3258"
+metafile = true
+
+[[files]]
+file = "mods/memory-clear-1-0-0-fabric-1-19-2-jar.pw.toml"
+hash = "65a3e85397df7f6282c76c281ea6d35fc550d95c086452445d5817f3e0356627"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix-fabric-1-17-1-1-5-jar.pw.toml"
+hash = "43e5057920c2c46f28ac2a1857bbe6129943fbcd03779bcfa65d6ca5a75b9276"
+metafile = true
+
+[[files]]
+file = "mods/memoryusagescreen-fabric-mc1-19-1-6-jar.pw.toml"
+hash = "38fd130e9c4b2cf8247b33042341ee099155d46e4019bb161f6c364c4b451778"
+metafile = true
+
+[[files]]
+file = "mods/memoryusagetitle-fabric-1-0-1-jar.pw.toml"
+hash = "aa121e35bdb4910acc3bf64eaafe46b0468a70d920c91a578c1eb22f5b451507"
+metafile = true
+
+[[files]]
+file = "mods/metropolis-0-3-0-beta-mtr3-2-2-fabric-1-19-2-20250618-jar.pw.toml"
+hash = "ed3ddcfa9105a15f8117ccb9f916f4977a7e9c312287b0ae21e0e36302562215"
+metafile = true
+
+[[files]]
+file = "mods/mishanguc-1-3-3-1-19-2-jar.pw.toml"
+hash = "a0f68e0161a242085dfde00082e5ef2705890c01587274f4c3f28b2743f49a8b"
+metafile = true
+
+[[files]]
+file = "mods/modernfix-fabric-5-18-1-mc1-19-2-jar.pw.toml"
+hash = "2d4dc345ce703fa5b11a6b5bd03d841d8f6bd5e774639ddf20b11018bb56611b"
+metafile = true
+
+[[files]]
+file = "mods/modmenu-4-2-0-beta-2-jar.pw.toml"
+hash = "69065f92cbfd7a993afe739f2a190443ad6b70e22a98328957e3d2f28e34239e"
+metafile = true
+
+[[files]]
+file = "mods/mousetweaks-fabric-mc1-19-2-22-jar.pw.toml"
+hash = "e338f0b735130aa5b4591d18154c8c3f225a65ad10886b88481ea60f5146933e"
+metafile = true
+
+[[files]]
+file = "mods/mtr-ante-1-1-0-1-19-2-jar.pw.toml"
+hash = "6ff91f116a479b52b575ad9a4f496c4d391ee762a050b96a0b2a074bf2855ce6"
+metafile = true
+
+[[files]]
+file = "mods/mtr-fabric-1-19-2-3-2-2-hotfix-1-jar.pw.toml"
+hash = "77c3f3da0d44e9115696b40ca0757b097eddcbcd20608bc844134de7df8484e3"
+metafile = true
+
+[[files]]
+file = "mods/mtr-lu-addon-fabric-1-19-2-2-1-2-hotfix2-jar.pw.toml"
+hash = "999c0feccef5fe76ac7c1b46bd09e327ac3a1ab2f4fa364993f0944a73d283f0"
+metafile = true
+
+[[files]]
+file = "mods/mtr-msd-addon-fabric-1-19-2-3-2-2-1-3-4-enhancement-1-jar.pw.toml"
+hash = "50402e43719d3aece776fa7ad880dd661af21aabfbd4c3828464ebff72d2e901"
+metafile = true
+
+[[files]]
+file = "mods/mtr-otp-1-1-0-mc1-19-2-jar.pw.toml"
+hash = "7e706d786c0193a854c73ca8579e58ce70da58fff395b991c32e6d3d01abb3c3"
+metafile = true
+
+[[files]]
+file = "mods/mtr3-next-technology-addon-1-1-8-jar.pw.toml"
+hash = "29839b616932729e22228685d0f74c2720152057022e0fef5a9c668fff9c7246"
+metafile = true
+
+[[files]]
+file = "mods/nochatreports-fabric-1-19-2-v1-13-12-jar.pw.toml"
+hash = "00aeef23baf61faab218ed0ce0852960830d07c1f9fa8a84ae432ae116cd56ff"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes-5-0-0-1-19-2-fabric-jar.pw.toml"
+hash = "b9951d35557d86ba18390de968c8868387beaa380a1bb02329a1bbfdc0a33689"
+metafile = true
+
+[[files]]
+file = "mods/presencefootsteps-1-6-4-jar.pw.toml"
+hash = "fa68cf423aae1c08c99b92ef8b2631d601fbd12533448a69b853a9241401f2f1"
+metafile = true
+
+[[files]]
+file = "mods/resourcefullib-fabric-1-19-2-1-1-24-jar.pw.toml"
+hash = "f3b43227a2ee9be3839221d331ca19c625ff736d6df24e49130707db7b1c3f7e"
+metafile = true
+
+[[files]]
+file = "mods/rrls-1-19-2-3-1-1-fabric-jar.pw.toml"
+hash = "fa85ef3a0c947f33702e7515c43cdbf2817ae0daaa52177bbdf76b383d0c79e5"
+metafile = true
+
+[[files]]
+file = "mods/slideshow-fabric-1-19-2-1-0-3-enhancement-1-jar.pw.toml"
+hash = "d4c527b5e7c860b472919c271cc30282cea9adde4bc8184e3af1c0f2e27369e5"
+metafile = true
+
+[[files]]
+file = "mods/sodium-fabric-mc1-19-2-0-4-4-build-18-jar.pw.toml"
+hash = "ece09a355314fe35f740c124508829f32b90ea336ed83933c13f22d3842ec716"
+metafile = true
+
+[[files]]
+file = "mods/sound-pitch-expansion.pw.toml"
+hash = "e31406608e67e9d2e0a1a444d15d25fdf1046a209d58d30c44fd7f3d489cc03b"
+metafile = true
+
+[[files]]
+file = "mods/spark-1-10-37-fabric-jar.pw.toml"
+hash = "cf531146b1dec5c4f4f305f34b9d6bca17bc8e671d72e36a5768ee9a8c18a932"
+metafile = true
+
+[[files]]
+file = "mods/starlight-1-1-1-fabric-ae22326-jar.pw.toml"
+hash = "26db301a1d6b702712097f216d5212c6b5c6fcc365d52f8d5811a25e8b2350fe"
+metafile = true
+
+[[files]]
+file = "mods/trafficcraft-fabric-1-19-2-1-1-3-jar.pw.toml"
+hash = "6c4fdcc884eaec70d9c4f767000f3f1955fa88d49835a025c302c7fe837f3773"
+metafile = true
+
+[[files]]
+file = "mods/tts-service-system-1-1-2-hotfix-4-jar.pw.toml"
+hash = "0f81175ad77cdf08548212e625151c54e5f83dc14544f1d42cea7cb5a7b4e157"
+metafile = true
+
+[[files]]
+file = "mods/videotape-1-5-1-jar.pw.toml"
+hash = "bad3750c64adedbadeb9a06b11d0bb1d4cbf6c58eca7d06bb5d4e6381c949611"
+metafile = true
+
+[[files]]
+file = "mods/worldcomment-0-3-1-1-19-2-jar.pw.toml"
+hash = "0c68e4281b126fec616dc900b48335c84fcc0ff5d63f55a0c393c5c87f7c8b8a"
+metafile = true
+
+[[files]]
+file = "mods/yetanotherconfiglib-2-2-0-for-1-19-2-jar.pw.toml"
+hash = "50366eb62a23a772bd80d764820f61891c2ad2175f9735f2559757edd34919e3"
+metafile = true
+
+[[files]]
+file = "mods/yuushya-1-19-2-fabric-2-2-3-jar.pw.toml"
+hash = "0d4cac2fb77e4f663efb55f7d6c6df0ba25692d0eabffee31c52d102a279624f"
+metafile = true
+
+[[files]]
+file = "mods/zoomify-2-9-0-jar.pw.toml"
+hash = "f46201eeb45a69e2120764406ee028beec63a122d78d193145389084c9585e84"
+metafile = true

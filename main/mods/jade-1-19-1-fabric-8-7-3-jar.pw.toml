@@ -1,0 +1,7 @@
+name = "Jade-1.19.1-fabric-8.7.3.jar"
+filename = "Jade-1.19.1-fabric-8.7.3.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/nvQzSEkH/versions/ZASePpsm/Jade-1.19.1-fabric-8.7.3.jar"
+hash-format = "sha256"
+hash = "e930691561b00868a322cfc77cdc1d5993fcfc1a222938a466a4ecfbc8dfe442"

@@ -1,0 +1,7 @@
+name = "geckolib-fabric-1.19-3.1.40.jar"
+filename = "geckolib-fabric-1.19-3.1.40.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/8BmcQJ2H/versions/ATPZfRS1/geckolib-fabric-1.19-3.1.40.jar"
+hash-format = "sha256"
+hash = "9da5d483ec23f992c8e587791109372f499fd35e7163d9c85f57cd4f64d630a7"

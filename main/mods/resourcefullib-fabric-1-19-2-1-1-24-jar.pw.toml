@@ -1,0 +1,7 @@
+name = "resourcefullib-fabric-1.19.2-1.1.24.jar"
+filename = "resourcefullib-fabric-1.19.2-1.1.24.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/G1hIVOrD/versions/mxiPijSw/resourcefullib-fabric-1.19.2-1.1.24.jar"
+hash-format = "sha256"
+hash = "73579ac3104ac5a1acf991ab856d9dc5db90702532bec981fb88bb4e4a0c55f3"

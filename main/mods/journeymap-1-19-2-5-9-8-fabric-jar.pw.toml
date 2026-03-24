@@ -1,0 +1,7 @@
+name = "journeymap-1.19.2-5.9.8-fabric.jar"
+filename = "journeymap-1.19.2-5.9.8-fabric.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/3ZtAeGzV/journeymap-1.19.2-5.9.8-fabric.jar"
+hash-format = "sha256"
+hash = "506c56e772d5e25175c1ece9fac5423228bb89ba7fa480c597343763f2e46ed3"

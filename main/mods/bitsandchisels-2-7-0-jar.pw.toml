@@ -1,0 +1,7 @@
+name = "bitsandchisels-2.7.0.jar"
+filename = "bitsandchisels-2.7.0.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/q8MC5tW2/versions/2.7.0/bitsandchisels-2.7.0.jar"
+hash-format = "sha256"
+hash = "63166d5c18b443baaf79e5c60d349e9a2f78276b0474ee66aaef54e8648c6b9a"

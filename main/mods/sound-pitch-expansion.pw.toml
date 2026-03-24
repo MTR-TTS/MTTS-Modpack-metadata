@@ -1,0 +1,13 @@
+name = "Sound Pitch Expansion"
+filename = "sound-pitch-expansion-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RoMSmWxf/versions/9A9mSrJp/sound-pitch-expansion-1.0.1.jar"
+hash-format = "sha256"
+hash = "d1f6ff982a85f1388b6bde81d2ab05358940113376767d92be1146fe44fc2add"
+
+[update]
+[update.modrinth]
+mod-id = "RoMSmWxf"
+version = "9A9mSrJp"
