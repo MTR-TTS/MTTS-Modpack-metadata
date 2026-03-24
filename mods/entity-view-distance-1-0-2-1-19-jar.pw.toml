@@ -3,5 +3,5 @@ filename = "entity-view-distance-1.0.2+1.19.jar"
 
 [download]
 url = "https://cdn.modrinth.com/data/ihnBJ6on/versions/1.0.2%2B1.19/entity-view-distance-1.0.2%2B1.19.jar"
-hash-format = "sha512"
-hash = "2eb1334b4d744d73288dbe3a57b75abe30f6fd0ce93e70f840ced691c30b2d00cec4cf93d215f6608a48b61a1845578f511678c3e4c862e2ce353c1f5033789b"
+hash-format = "sha256"
+hash = "22eaee3175e441bce3a40fd4ff2273e4a1eeb10d017b6cbf8955fac4b6825dd0"

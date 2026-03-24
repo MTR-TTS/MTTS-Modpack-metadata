@@ -3,5 +3,5 @@ filename = "language-reload-1.6.1+1.19.2.jar"
 
 [download]
 url = "https://cdn.modrinth.com/data/uLbm7CG6/versions/AmPdNCPb/language-reload-1.6.1%2B1.19.2.jar"
-hash-format = "sha512"
-hash = "a842f4052c73ac195926b391fbe3c4f320b6996eac021e9d0670176869c51a6bc235604e876b61c9ee51d1fa05e018008faeac909ae0fee7588a3cdf310ab15f"
+hash-format = "sha256"
+hash = "fdbf8c900b864d247200bf0dd6fde0616374bf798178210dc9e74e2970e2fa8a"

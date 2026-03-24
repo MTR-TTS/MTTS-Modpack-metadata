@@ -3,5 +3,5 @@ filename = "MTR-LU-Addon-fabric-1.19.2-2.1.2-hotfix2.jar"
 
 [download]
 url = "https://cdn.modrinth.com/data/jrAXj11W/versions/ER9g5iD3/MTR-LU-Addon-fabric-1.19.2-2.1.2-hotfix2.jar"
-hash-format = "sha512"
-hash = "f7dfbf669a2b462ee1767351f3b386a352e7eef54b7aa87d2831a191434ce0e29a9af73058cfa00413ee663604dce4c7432d6613b1d5c16cb25b99aa75578335"
+hash-format = "sha256"
+hash = "11864940cde9f7e18cde29a5347e4bf33ddb0e6b7f6b5c46de3149d642a3decc"

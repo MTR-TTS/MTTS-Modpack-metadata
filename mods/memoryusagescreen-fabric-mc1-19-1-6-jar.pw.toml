@@ -3,5 +3,5 @@ filename = "memoryusagescreen-fabric-mc1.19-1.6.jar"
 
 [download]
 url = "https://cdn.modrinth.com/data/n9mFA0ax/versions/1.19-1.6-Fabric/memoryusagescreen-fabric-mc1.19-1.6.jar"
-hash-format = "sha512"
-hash = "4e18651d75affe79b3d6352bb78040cc5c41c2af7153addbc227a8345290262763522bb4c0939c8a4ab2ba64964186ecab8272f68ddef9078d941604d91295bd"
+hash-format = "sha256"
+hash = "4991613a436c2739cf436ca63faca93776ab87de3591d18d6fae608f4eba9422"

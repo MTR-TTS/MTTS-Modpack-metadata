@@ -3,5 +3,5 @@ filename = "f3_anywhere-1.0.0.jar"
 
 [download]
 url = "https://cdn.modrinth.com/data/uXQF2DEn/versions/xFwfEwYB/f3_anywhere-1.0.0.jar"
-hash-format = "sha512"
-hash = "4e19dc5532a40d2a72907a336c900b70b715144c5d3ba7552455c77dce38ccf088a5f77a463ccdefe82d8a65e0bbf917e8f6953df6fbe8206d1e03f2b23f21ce"
+hash-format = "sha256"
+hash = "4d3fdfe15b14800d402500c0e2fc49fcb3e66d60865cacbe3f16026f88949dc1"

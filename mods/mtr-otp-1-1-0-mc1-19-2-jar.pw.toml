@@ -3,5 +3,5 @@ filename = "MTR-OTP-1.1.0+mc1.19.2.jar"
 
 [download]
 url = "https://github.com/DistrictOfJoban/MTR-OTP/releases/download/1.1.0/MTR-OTP-1.1.0+mc1.19.2.jar"
-hash-format = "sha512"
-hash = "a465981c23a08f7c5d725ac836f7b7bc44d47f5ec007e1a3b192e9345139e596e95496ba53446a498547150a360aaa288b2015ad1bd7b552029ef7059e58a079"
+hash-format = "sha256"
+hash = "721236b847fcc3f201ca77d1c7097d1b2ae5f027ed0fc3e6871bd96f03d4b2fa"

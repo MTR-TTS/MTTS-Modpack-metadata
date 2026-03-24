@@ -3,5 +3,5 @@ filename = "Manual-Enchance-fabric-0.2.1-beta+1.19.2.jar"
 
 [download]
 url = "https://cdn.modrinth.com/data/5ysqGT3F/versions/eOhsKDhY/Manual-Enchance-fabric-0.2.1-beta%2B1.19.2.jar"
-hash-format = "sha512"
-hash = "966b0273dbf92f6e81d6e5a2bc1da09e9d25d645e07752f4596f4af68e98534e25b52f1ce9113746a6ecc1593bd7cc55038a9fc156133651819e21ec2d443bf0"
+hash-format = "sha256"
+hash = "fa48d346c0915575250bf889dbe512b40fc3eae3466a2aa113be836829fb4d72"

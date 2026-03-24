@@ -3,5 +3,5 @@ filename = "notenoughcrashes-5.0.0+1.19.2-fabric.jar"
 
 [download]
 url = "https://cdn.modrinth.com/data/yM94ont6/versions/kZaSd9WA/notenoughcrashes-5.0.0%2B1.19.2-fabric.jar"
-hash-format = "sha512"
-hash = "026e10ef0c30a7816bbfb45a1c8715134e1decf8e029e3847dde462f8cdfde13599503c40aca7262df5bcad6e525589d5648937d8f4b2226d6759d42066fbfab"
+hash-format = "sha256"
+hash = "64ab9dcd6efb94f496a602f4ed037cb1e32fc2e97438896f3409bbec6eea2e41"

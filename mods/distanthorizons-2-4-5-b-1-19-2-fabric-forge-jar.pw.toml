@@ -3,5 +3,5 @@ filename = "DistantHorizons-2.4.5-b-1.19.2-fabric-forge.jar"
 
 [download]
 url = "https://cdn.modrinth.com/data/uCdwusMi/versions/6pwKWy7q/DistantHorizons-2.4.5-b-1.19.2-fabric-forge.jar"
-hash-format = "sha512"
-hash = "8d7613cf4a1a9b1c0bd0735778a3e84ec956d0ec095459eae1e4079cfdc8e2d95ff38aabf9123abffbcae65042a382d35d29de3ce5e357cda28de87de02fac50"
+hash-format = "sha256"
+hash = "29e943dabd2181742016bbf4a44bd8e172f2cb8686fe1637d27d141d2e979840"

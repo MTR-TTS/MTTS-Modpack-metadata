@@ -3,5 +3,5 @@ filename = "effortless-1.19.2-3.4.0.jar"
 
 [download]
 url = "https://cdn.modrinth.com/data/EF68hjiy/versions/OvywbVPD/effortless-1.19.2-3.4.0.jar"
-hash-format = "sha512"
-hash = "2d17c5376a6f3bc54c4c7ae3ba16930eb539e8ee2fbc1102e6bfa13c54abc6eb219cae93ce5b6ba2d5fe94bf4f7f2ed20e519b785780e3a1a3874829fbb51bad"
+hash-format = "sha256"
+hash = "38e1eb798a2b0084e6818f4fd750648660f4c8fe3b77981772d91345eb94a37b"

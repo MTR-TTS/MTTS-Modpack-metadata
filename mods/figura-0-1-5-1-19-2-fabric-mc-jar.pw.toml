@@ -3,5 +3,5 @@ filename = "figura-0.1.5+1.19.2-fabric-mc.jar"
 
 [download]
 url = "https://cdn.modrinth.com/data/s9gIPDom/versions/gFlLgoV5/figura-0.1.5%2B1.19.2-fabric-mc.jar"
-hash-format = "sha512"
-hash = "80471dfa24a6dc5929b65daedc92881870f0b6f35e162b71626db5ea103e3d24b85e724f3a0a8f5f98d52a5392868d9fb30bced137b6fabc418ddaa4452a8495"
+hash-format = "sha256"
+hash = "019120eae7a79530daf08318b789f100521f3c8d8f6e4eec5f8d4d26a892caa2"

@@ -3,5 +3,5 @@ filename = "block-entity-extended-rendering-2.0.0.jar"
 
 [download]
 url = "https://cdn.modrinth.com/data/pW8yWsAv/versions/2.0.0/block-entity-extended-rendering-2.0.0.jar"
-hash-format = "sha512"
-hash = "b81c88a356b0130ff3d2b2022b0cf43667d3de2209668ad20282b122914b88b9e44d3f742281e4b307c7abee008cb8b5c47854d3518e861846d82e04b8189d6b"
+hash-format = "sha256"
+hash = "600bbe93e7796a55260f2e73ddbd89724f52ed653f129c08582af12a8d469484"
