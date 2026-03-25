@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/tts-service-system.pw.toml"
-hash = "79ce2684828d9ae5eb7c3a230531987848bf192986ee85a3a2f318d26c0a8d1f"
+hash = "116cd58e5f3ac331fd22060e459f5e264458977fa56887725193bc85809118fc"
 metafile = true
 
 [[files]]
