@@ -1,0 +1,7 @@
+name = "tts-service-system"
+filename = "tts-service-system-1.1.2-hotfix-6.jar"
+
+[download]
+url = "https://mtr-tts.github.io/MTTS-Modpack-metadata/tts-service-system-1.1.2-hotfix-6.jar"
+hash-format = "sha256"
+hash = "09994088b9346f439208c9c89ec8b23c498c318cb376bf6d48016a5b95f3b375"

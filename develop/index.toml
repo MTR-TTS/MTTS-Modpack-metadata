@@ -286,6 +286,11 @@ hash = "6c4fdcc884eaec70d9c4f767000f3f1955fa88d49835a025c302c7fe837f3773"
 metafile = true
 
 [[files]]
+file = "mods/tts-service-system.pw.toml"
+hash = "79ce2684828d9ae5eb7c3a230531987848bf192986ee85a3a2f318d26c0a8d1f"
+metafile = true
+
+[[files]]
 file = "mods/videotape-1-5-1-jar.pw.toml"
 hash = "bad3750c64adedbadeb9a06b11d0bb1d4cbf6c58eca7d06bb5d4e6381c949611"
 metafile = true
