@@ -1,0 +1,7 @@
+name = "tts-service-system.jar"
+filename = "tts-service-system.jar"
+
+[download]
+url = "https://drive.google.com/uc?export=view&id=1tx_ACGJ8DMeUEGSO-LzszJgEUcVsaqwO"
+hash-format = "sha256"
+hash = "06929bd22ce3a073f13290689a22a3d8237c9eb65eae6d0c5887e3d8d76eac66"

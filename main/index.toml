@@ -286,8 +286,8 @@ hash = "6c4fdcc884eaec70d9c4f767000f3f1955fa88d49835a025c302c7fe837f3773"
 metafile = true
 
 [[files]]
-file = "mods/tts-service-system-1-1-2-hotfix-4-jar.pw.toml"
-hash = "0f81175ad77cdf08548212e625151c54e5f83dc14544f1d42cea7cb5a7b4e157"
+file = "mods/tts-service-system-jar.pw.toml"
+hash = "87ead8837023280fa4dae02d98e0672fb40e3336ecdf816dba232f1c8c935dbd"
 metafile = true
 
 [[files]]
