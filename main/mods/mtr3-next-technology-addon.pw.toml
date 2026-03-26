@@ -1,0 +1,15 @@
+name = "MTR3-Next-Technology-Addon"
+filename = "mtr3-next-technology-addon-1.1.9.jar"
+side = "both"
+
+[download]
+url = "https://github.com/nestaida4096/MTR3-Next-Technology-Addon/releases/download/1.1.9/mtr3-next-technology-addon-1.1.9.jar"
+hash-format = "sha256"
+hash = "805f62736a1a9d3e9f4b2b3cccdd2b29dd28efcff22da729146bfef3b36bee40"
+
+[update]
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "nestaida4096/MTR3-Next-Technology-Addon"
+tag = "1.1.9"
