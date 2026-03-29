@@ -151,8 +151,8 @@ hash = "0b36e60aaded960b74c09bafaaa1dce6194a4d783a8b419c7c96afa67a56b7c6"
 metafile = true
 
 [[files]]
-file = "mods/manual-enchance-fabric-0-2-1-beta-1-19-2-jar.pw.toml"
-hash = "10b298c27c3a524869ac175a0b4d3148111111a56b2a3652c8a89c391e9f3258"
+file = "mods/manual-enchance.pw.toml"
+hash = "c6c6af21ef69b2b4e28b581e399e5b645c277cbd3d6b15e716e19bca9b960bf1"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Manual-Enchance"
+filename = "Manual-Enchance-fabric-0.2.2-beta+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5ysqGT3F/versions/3JYXazDf/Manual-Enchance-fabric-0.2.2-beta%2B1.19.2.jar"
+hash-format = "sha256"
+hash = "bdf2fbf8e23b7623649871838a8deee397474c1a026110942679a278dc2538aa"
+
+[update]
+[update.modrinth]
+mod-id = "5ysqGT3F"
+version = "3JYXazDf"
