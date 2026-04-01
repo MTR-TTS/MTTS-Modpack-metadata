@@ -1,0 +1,17 @@
+name = "Iris Shaders"
+filename = "iris-mc1.19.2-1.6.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YL57xq9U/versions/LgOJIpIS/iris-mc1.19.2-1.6.11.jar"
+hash-format = "sha256"
+hash = "6a06a609c749c78b098f1664ea33d1b54e6d335ef6ae7f9eff2029e814e393e5"
+
+[update]
+[update.modrinth]
+mod-id = "YL57xq9U"
+version = "LgOJIpIS"
+
+[option]
+optional = true
+description = "シェーダー読み込みmod。DistantHorizonsとの互換性なし"

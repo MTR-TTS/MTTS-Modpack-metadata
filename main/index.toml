@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons-2-4-5-b-1-19-2-fabric-forge-jar.pw.toml"
-hash = "b7f75e8ba033ab0b519137a88627fded9ee6cb2de6175b25b5828e79f418cfc4"
+hash = "b75fee44b7f04383f938d7776454657c905d18fc4876b02a9fa9fb5ec6b52f9c"
 metafile = true
 
 [[files]]
@@ -108,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/indium-1-0-9-mc1-19-2-jar.pw.toml"
 hash = "843baf12bf8ac27e7840d7e8c37799dbd18fd6dc0f6f69bff0216a5738d699a2"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "da36ce7914b4c247c36ef47eb6298ebf6476e8a71f232ba5d040f66c7e42b296"
 metafile = true
 
 [[files]]

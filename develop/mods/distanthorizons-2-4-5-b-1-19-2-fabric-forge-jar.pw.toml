@@ -5,3 +5,8 @@ filename = "DistantHorizons-2.4.5-b-1.19.2-fabric-forge.jar"
 url = "https://cdn.modrinth.com/data/uCdwusMi/versions/6pwKWy7q/DistantHorizons-2.4.5-b-1.19.2-fabric-forge.jar"
 hash-format = "sha256"
 hash = "29e943dabd2181742016bbf4a44bd8e172f2cb8686fe1637d27d141d2e979840"
+
+[option]
+optional = true
+default = false
+description = "遠くまで地形を描画するMod。Iris Shadersとの互換性なし"
