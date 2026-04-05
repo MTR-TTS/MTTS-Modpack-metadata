@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/timeoutout.pw.toml"
-hash = "e7d7d775847e0dba0303056d4ad11ffda536b7851b443e5d5799afb23ecefa5f"
+hash = "a83c58dc2bf009bcdda3f08c454c6291a22d8a371e242b317178cb33f1b89730"
 metafile = true
 
 [[files]]
@@ -324,3 +324,7 @@ metafile = true
 file = "mods/zoomify-2-9-0-jar.pw.toml"
 hash = "f46201eeb45a69e2120764406ee028beec63a122d78d193145389084c9585e84"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "8a63414dd8778edeb10bfdae6a52e057199f5a9149f1453dc0822bda31a1a5a8"
