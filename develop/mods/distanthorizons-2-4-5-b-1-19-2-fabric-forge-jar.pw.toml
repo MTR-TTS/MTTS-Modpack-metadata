@@ -8,5 +8,4 @@ hash = "29e943dabd2181742016bbf4a44bd8e172f2cb8686fe1637d27d141d2e979840"
 
 [option]
 optional = true
-default = false
 description = "遠くまで地形を描画するMod。Iris Shadersとの互換性なし"
