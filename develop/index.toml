@@ -161,6 +161,11 @@ hash = "c6c6af21ef69b2b4e28b581e399e5b645c277cbd3d6b15e716e19bca9b960bf1"
 metafile = true
 
 [[files]]
+file = "mods/mcef-keksuccino.pw.toml"
+hash = "02f403b6f0933c9c17d66d48d62c78abcfc5fdb7afe3c2467fc4ad1f30f6e33c"
+metafile = true
+
+[[files]]
 file = "mods/memory-clear-1-0-0-fabric-1-19-2-jar.pw.toml"
 hash = "65a3e85397df7f6282c76c281ea6d35fc550d95c086452445d5817f3e0356627"
 metafile = true
@@ -297,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/tts-service-system.pw.toml"
-hash = "c24eff71fc107b2f6225ca1df033609b3b0bb1a6d9fddda783e35e5893f88aa2"
+hash = "08e83ef9db4d2a602d2906a9a4ce61abaf871a822a4d8b4dace8665a54e7f2e0"
 metafile = true
 
 [[files]]
