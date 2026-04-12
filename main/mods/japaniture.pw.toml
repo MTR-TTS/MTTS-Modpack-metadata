@@ -1,0 +1,13 @@
+name = "Japaniture"
+filename = "Japaniture-1.19.2-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xpYjluDL/versions/oALlH9Jr/Japaniture-1.19.2-3.0.1.jar"
+hash-format = "sha256"
+hash = "753f0b3dd2c6cb44b7e4efbd86f045f00d8ecb680cc2847dac6036084803b28d"
+
+[update]
+[update.modrinth]
+mod-id = "xpYjluDL"
+version = "oALlH9Jr"

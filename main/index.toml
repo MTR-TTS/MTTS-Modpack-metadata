@@ -126,8 +126,8 @@ hash = "506d05c34e99c3cac153df7a46c879e1e691cae3c03d142cca5aabf145d557b4"
 metafile = true
 
 [[files]]
-file = "mods/japaniture-1-19-2-3-0-0-jar.pw.toml"
-hash = "dc0b984908768952a397aa167aa750e65e58da95df4d14ea7a821df03d13897b"
+file = "mods/japaniture.pw.toml"
+hash = "c92693b6885b3581f1e95990527b4d9abfd0cbf5e2c3dc79dac07b8b5c3d8a87"
 metafile = true
 
 [[files]]
