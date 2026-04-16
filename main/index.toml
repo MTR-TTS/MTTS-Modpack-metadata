@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/mtr3-next-technology-addon.pw.toml"
-hash = "939f67d3ce2446ec7d182a23db329b3ccd987d228cd33f8220e2a438e39f3fae"
+hash = "89a60ef5a1890818b726f30ceecb60d0fce74b6f48c9ba781f27ac1dc2ca5049"
 metafile = true
 
 [[files]]

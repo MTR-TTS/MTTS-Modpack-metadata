@@ -1,15 +1,15 @@
 name = "MTR3-Next-Technology-Addon"
-filename = "mtr3-next-technology-addon-1.1.9-hotfix-3.jar"
+filename = "mtr3-next-technology-addon-1.2.0-hotfix-1.jar"
 side = "both"
 
 [download]
-url = "https://github.com/nestaida4096/MTR3-Next-Technology-Addon/releases/download/1.1.9-hotfix-3/mtr3-next-technology-addon-1.1.9-hotfix-3.jar"
+url = "https://github.com/nestaida4096/MTR3-Next-Technology-Addon/releases/download/1.2.0-hotfix-1/mtr3-next-technology-addon-1.2.0-hotfix-1.jar"
 hash-format = "sha256"
-hash = "c301a8f50ad2a3607c3a5a26a19a7f5ee511f73771d383d5810b7b04d0e63071"
+hash = "2727e89c0b3ff721f17da3ddae77ba30bf420118d97e1ab826f81359d6497bce"
 
 [update]
 [update.github]
 branch = "main"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "nestaida4096/MTR3-Next-Technology-Addon"
-tag = "1.1.9-hotfix-3"
+tag = "1.2.0-hotfix-1"
