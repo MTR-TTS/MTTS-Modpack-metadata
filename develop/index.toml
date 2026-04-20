@@ -61,6 +61,11 @@ hash = "e3444f8a4040e89ff9546279e559a60a9a6fd5247909284d6635dc67911719e5"
 metafile = true
 
 [[files]]
+file = "mods/entity-view-distance.pw.toml"
+hash = "dccb2e8349a58f88a6225fe807a912264c72c5d66155d7f3dd27836662eac7d5"
+metafile = true
+
+[[files]]
 file = "mods/entityculling-fabric-1-6-1-mc1-19-2-jar.pw.toml"
 hash = "0e945056987f5ce1a6167fb8055fdbb18c89bddc1551b491019d50fe6b88a8cd"
 metafile = true
