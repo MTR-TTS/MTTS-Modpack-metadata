@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/xpYjluDL/versions/3JDxtiQI/Japaniture-1.19.2-3.0.0.jar"
-hash-format = "sha512"
-hash = "2fd62a08698f51d2858a0d3cd7cfb0355ccb848b7de4a8551dc06b18178228c3923945f9fa52b94f56b3d30312f3f10f1dc740b69c0c67b53fb43c8b1d041db6"
+hash-format = "sha256"
+hash = "6acd76653cfb02cb7b5e8c29da0575f7e842344b44f074f16def4edefb8e3123"
 
 [update]
 [update.modrinth]

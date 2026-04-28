@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-view-distance.pw.toml"
-hash = "dccb2e8349a58f88a6225fe807a912264c72c5d66155d7f3dd27836662eac7d5"
+hash = "a86c0ba442c87fce1b05dafa06a359b239da122c69d25ef9a95793fbba25cbb6"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/japaniture.pw.toml"
-hash = "295723e71440c8cb4205092614fbc9e297cd6f796f32a1b56a66f0f34476094f"
+hash = "965ab7b7d4ed9d464e607d7896852b2c9233c4453aeb014d76d0032cf0f09bb3"
 metafile = true
 
 [[files]]
@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/tts-service-system.pw.toml"
-hash = "2009cb90b77ab4b1fd76ccd61cb72edf808c52cd44fff0c712adaeddf319a996"
+hash = "903df97929000fda4e6a3dfdec3ff0086c528ca4519f6bd3fc832c65b4f3692f"
 metafile = true
 
 [[files]]
