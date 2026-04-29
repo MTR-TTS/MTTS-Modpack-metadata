@@ -331,6 +331,11 @@ hash = "0d4cac2fb77e4f663efb55f7d6c6df0ba25692d0eabffee31c52d102a279624f"
 metafile = true
 
 [[files]]
+file = "mods/yuushya-modelling.pw.toml"
+hash = "4528c3dcc100055b5f92a51c57e5af609a4e561475c84e607c7bafcfbe7b48b4"
+metafile = true
+
+[[files]]
 file = "mods/zoomify-2-9-0-jar.pw.toml"
 hash = "f46201eeb45a69e2120764406ee028beec63a122d78d193145389084c9585e84"
 metafile = true
