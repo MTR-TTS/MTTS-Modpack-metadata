@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/tts-service-system.pw.toml"
-hash = "903df97929000fda4e6a3dfdec3ff0086c528ca4519f6bd3fc832c65b4f3692f"
+hash = "ff297820c940137df915ca7c1c01f53b56265368931d4206568bdd416014fe00"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/yuushya-modelling.pw.toml"
-hash = "4528c3dcc100055b5f92a51c57e5af609a4e561475c84e607c7bafcfbe7b48b4"
+hash = "49026840d322a58cc4068849278a98f438860892ec221356f6ddeecdd67faeb0"
 metafile = true
 
 [[files]]
