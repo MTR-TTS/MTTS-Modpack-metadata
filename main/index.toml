@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/mtr3-next-technology-addon.pw.toml"
-hash = "53641780ab4ac4c9653e262269b94dba20a327b5754c2fd0cfdfe6da0665c98f"
+hash = "5d2ca92292fe6695a7c353932bc807d1faf92d1054b9d63f662d5cba610c0e8d"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/tts-service-system.pw.toml"
-hash = "2009cb90b77ab4b1fd76ccd61cb72edf808c52cd44fff0c712adaeddf319a996"
+hash = "57b16d6c675a71bc45c5187ba8c6cb82a7674223b91f990907df339dbcff388d"
 metafile = true
 
 [[files]]
