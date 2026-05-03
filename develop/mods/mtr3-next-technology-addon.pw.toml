@@ -1,15 +1,13 @@
-name = "MTR3-Next-Technology-Addon"
-filename = "mtr3-next-technology-addon-1.2.1.jar"
+name = "MTR3 Next Technology Addon"
+filename = "mtr3-next-technology-addon-1.2.2.jar"
 side = "both"
 
 [download]
-url = "https://github.com/nestaida4096/MTR3-Next-Technology-Addon/releases/download/1.2.1/mtr3-next-technology-addon-1.2.1.jar"
-hash-format = "sha256"
-hash = "6c162556c5302ce626fef6b06b1626b97ef179acea250b4f34e5deb265d8b469"
+url = "https://cdn.modrinth.com/data/TmBICWlw/versions/QRZTWqVx/mtr3-next-technology-addon-1.2.2.jar"
+hash-format = "sha512"
+hash = "0fb75b3798dc4ce2e71d433ddc48d3f48a6ff67af869a0fad4f81b0e5f1d7368292e58b35fbd5276b0240fcaaaa13c85db6de4f45e4ef1d042fff5c5291c6517"
 
 [update]
-[update.github]
-branch = "main"
-regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
-slug = "nestaida4096/MTR3-Next-Technology-Addon"
-tag = "1.2.1"
+[update.modrinth]
+mod-id = "TmBICWlw"
+version = "QRZTWqVx"
