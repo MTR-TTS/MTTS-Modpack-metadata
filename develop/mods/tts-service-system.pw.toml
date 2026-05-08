@@ -1,7 +1,7 @@
 name = "tts-service-system"
-filename = "tts-service-system-1.1.7-hotfix-7.jar"
+filename = "tts-service-system-1.1.8.jar"
 
 [download]
-url = "https://github.com/MTR-TTS/MTTS-Modpack-metadata/raw/refs/heads/main/tts-service-system-1.1.7-hotfix-7.jar"
+url = "https://github.com/MTR-TTS/MTTS-Modpack-metadata/raw/refs/heads/main/tts-service-system-1.1.8.jar"
 hash-format = "sha256"
-hash = "25de26c67646c73c0993ab0fb37c6ecc00b296472f2f86982235062c5902771a"
+hash = "52ccab92ebfc722326a9318e5297020a65bbe8a5b89fe25de820605b7cb1e718"
