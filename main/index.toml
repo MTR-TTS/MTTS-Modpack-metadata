@@ -116,6 +116,11 @@ hash = "da36ce7914b4c247c36ef47eb6298ebf6476e8a71f232ba5d040f66c7e42b296"
 metafile = true
 
 [[files]]
+file = "mods/j-inf.pw.toml"
+hash = "aac7cc9912525b2d2f98d0eb5a6dafcae273b65e213793de77bc96fab554f68a"
+metafile = true
+
+[[files]]
 file = "mods/jade-1-19-1-fabric-8-7-3-jar.pw.toml"
 hash = "d51cdc9ff8b732b75182cb9430f8c2b410f6fb457c192fb690a1b715b4b5a633"
 metafile = true

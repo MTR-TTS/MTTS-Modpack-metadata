@@ -1,0 +1,13 @@
+name = "J-inf"
+filename = "J-inf-NTTS0.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ukRfDE04/versions/pr6Z7lOy/J-inf-NTTS0.0.2.jar"
+hash-format = "sha512"
+hash = "4eab693fdf17840f20a37c2378fcc1e65c971299e5034c8f86d672145dafcfa469934c63154e8ab109b8fe05a4ea4e86afe8002a110983573afcbe480a47a3da"
+
+[update]
+[update.modrinth]
+mod-id = "ukRfDE04"
+version = "pr6Z7lOy"
