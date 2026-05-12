@@ -161,6 +161,11 @@ hash = "0b36e60aaded960b74c09bafaaa1dce6194a4d783a8b419c7c96afa67a56b7c6"
 metafile = true
 
 [[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "a36027b27c97b974b4ab36477990add74585d475901c802a594646f8d34a3bfe"
+metafile = true
+
+[[files]]
 file = "mods/manual-enchance-fabric-0-2-1-beta-1-19-2-jar.pw.toml"
 hash = "10b298c27c3a524869ac175a0b4d3148111111a56b2a3652c8a89c391e9f3258"
 metafile = true
@@ -256,6 +261,11 @@ hash = "b9951d35557d86ba18390de968c8868387beaa380a1bb02329a1bbfdc0a33689"
 metafile = true
 
 [[files]]
+file = "mods/open-simple-frames.pw.toml"
+hash = "6cb8c3db7883cdb0b10438ae856158e282708a03278e7e5511cde465e40fa85d"
+metafile = true
+
+[[files]]
 file = "mods/presencefootsteps-1-6-4-jar.pw.toml"
 hash = "fa68cf423aae1c08c99b92ef8b2631d601fbd12533448a69b853a9241401f2f1"
 metafile = true
@@ -308,6 +318,11 @@ metafile = true
 [[files]]
 file = "mods/videotape-1-5-1-jar.pw.toml"
 hash = "bad3750c64adedbadeb9a06b11d0bb1d4cbf6c58eca7d06bb5d4e6381c949611"
+metafile = true
+
+[[files]]
+file = "mods/wirelessredstone.pw.toml"
+hash = "158233c5dc25e5c841a6c43e8ee52b4617c1f363350f381de23b3957fb584258"
 metafile = true
 
 [[files]]
