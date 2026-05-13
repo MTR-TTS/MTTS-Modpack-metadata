@@ -231,6 +231,11 @@ hash = "6ff91f116a479b52b575ad9a4f496c4d391ee762a050b96a0b2a074bf2855ce6"
 metafile = true
 
 [[files]]
+file = "mods/mtr-east-japan-railway-addon.pw.toml"
+hash = "afaa75fbb9ea9b27519669c3f34a004d0b2324baabcf8122cf6c02cc8877e60d"
+metafile = true
+
+[[files]]
 file = "mods/mtr-fabric-1-19-2-3-2-2-hotfix-1-jar.pw.toml"
 hash = "77c3f3da0d44e9115696b40ca0757b097eddcbcd20608bc844134de7df8484e3"
 metafile = true
