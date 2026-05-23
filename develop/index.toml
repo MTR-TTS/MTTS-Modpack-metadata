@@ -166,11 +166,6 @@ hash = "0b36e60aaded960b74c09bafaaa1dce6194a4d783a8b419c7c96afa67a56b7c6"
 metafile = true
 
 [[files]]
-file = "mods/local-weather-mod.pw.toml"
-hash = "d1e57c01fa88dfc7d47ec516a4c8fa8617ebdfd01e4e33123fc35779d7217ddd"
-metafile = true
-
-[[files]]
 file = "mods/macaws-roofs.pw.toml"
 hash = "a36027b27c97b974b4ab36477990add74585d475901c802a594646f8d34a3bfe"
 metafile = true

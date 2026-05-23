@@ -1,7 +1,0 @@
-name = "local-weather-mod"
-filename = "local-weather-mod-1.0.3.jar"
-
-[download]
-url = "https://github.com/MTR-TTS/MTTS-Modpack-metadata/raw/refs/heads/main/localweather/local-weather-mod-1.0.3.jar"
-hash-format = "sha256"
-hash = "1bf06886975277f12011633041b3fcad4aac454b085ac84cb7f0090f415d1e05"
