@@ -1,13 +1,13 @@
-name = "MTR: East Japan Railway Addon"
+name = "MTR : East Japan Railway Addon"
 filename = "mtr-east-japan-railway-addon-1.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7ef8af0da74f9677800007ac4cc2be7d7aafbaf6"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/D71eHs2Y/versions/2MjaJloZ/mtr-east-japan-railway-addon-1.0.1.jar"
+hash-format = "sha512"
+hash = "be1b66692af8f5cfcac1c12b61e7cec0e6bbdf5babbb5e8e478c72175902d55b1d76f4b1f0e97b03796aee37ac00ae8a9089328afcd93ae8926dcd80ddeca38a"
 
 [update]
-[update.curseforge]
-file-id = 8117586
-project-id = 1452147
+[update.modrinth]
+mod-id = "D71eHs2Y"
+version = "2MjaJloZ"

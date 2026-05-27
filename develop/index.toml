@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/mtr-east-japan-railway-addon.pw.toml"
-hash = "aee27d0dbb0ac61278aa7d1e991f8067b476b2d7c0eb0d5e1204bc528c42ea65"
+hash = "f0beaab94af307284771cdccd1a8f9c212c8084b844351b800786684702a5880"
 metafile = true
 
 [[files]]
