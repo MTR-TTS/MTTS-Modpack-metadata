@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/figura.json"
+hash = "90f94ae963ec3c5ac1419e0d50190efd84c99ab7a13a72c6197c92f3de711d54"
+
+[[files]]
 file = "mods/architectury-6-6-92-fabric-jar.pw.toml"
 hash = "a7f7c1e3593c1541bc77a002bebf9d73a83c6fd52b741bdcb768b5e68e420015"
 metafile = true
