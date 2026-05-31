@@ -45,10 +45,6 @@ hash = "2f4e8d34565206c080fa1fbb61c755d2bcef2a865631ad6afdea61cfb6fe9481"
 metafile = true
 
 [[files]]
-file = "mods/crash-catch-1.0.0.jar"
-hash = "5c641a712611016ff7c8e4015e531885a598f3abd877685790b68ec3a93083a0"
-
-[[files]]
 file = "mods/distanthorizons-2-4-5-b-1-19-2-fabric-forge-jar.pw.toml"
 hash = "b75fee44b7f04383f938d7776454657c905d18fc4876b02a9fa9fb5ec6b52f9c"
 metafile = true
