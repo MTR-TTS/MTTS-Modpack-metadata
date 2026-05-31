@@ -46,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-catch.pw.toml"
-hash = "2641ee1ad29ce46c095d0457618f684fc4b83ff0b125006ed7ca29ce4c92ff3b"
+hash = "f2794f3681944221b829e6d704a4c2002b014f106c8669220d096384d30b721e"
 metafile = true
 
 [[files]]
