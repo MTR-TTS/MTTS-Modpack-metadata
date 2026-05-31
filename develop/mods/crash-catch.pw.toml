@@ -4,8 +4,4 @@ filename = "crash-catch-1.0.0.jar"
 [download]
 url = "https://github.com/MTR-TTS/MTTS-Modpack-metadata/blob/main/original_mods/crash-catch-1.0.0.jar"
 hash-format = "sha256"
-hash = "b5860eb615661109a96250f89974c5a8a00d5ebb397a33f39ace31385966687e"
-
-[option]
-optional = true
-description = "クラッシュ発生時にゲームを閉じないようにするMod（試験中）"
+hash = "0b5e406db69c3982d09c0c1f6906b9507304a15704b1aba397905744f5b0b291"

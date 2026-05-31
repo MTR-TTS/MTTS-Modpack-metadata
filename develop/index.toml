@@ -46,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-catch.pw.toml"
-hash = "9b6d18fa95b65645dcb3fee37638f9e5106959d7f41c4e448d3f6ddee51786fa"
+hash = "483f95a7e64dc1c529a842a406b0cea83c69e2878eb409df107079e03837f6d4"
 metafile = true
 
 [[files]]
@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/mtr-east-japan-railway-addon.pw.toml"
-hash = "a51b9b1f034e6bff0a10df568bd5ac1c9889b1736de49653887299f9344ea75c"
+hash = "29b6709b4a9a43a48d9ecd79e0b6f69327f1158e24ba78d1790624c96870804b"
 metafile = true
 
 [[files]]
@@ -266,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/mtr3-next-technology-addon.pw.toml"
-hash = "9cfa0e99d17e73430fb211dd98872e66f2db693a4e75bb95da87aed9919f1ac5"
+hash = "683d1146b37259d89da41fb2b3a8dcc36508089886c79694fd193daca9f54691"
 metafile = true
 
 [[files]]
@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-simple-frames.pw.toml"
-hash = "c9843fbdc541324fe845fa0c7c3e98fd5cc50b989a24cea54da50685e375e590"
+hash = "89bea6030b174bc6bd7d1caf20aa2961c499dbd6be9bfa05494bd478d3b689d5"
 metafile = true
 
 [[files]]
@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/wirelessredstone.pw.toml"
-hash = "c604508d5ce149354693981c8a5e64710d255c52ba3de29ea16c2c831fb0616f"
+hash = "c86b181171a5ddc0bf3018db4212b3cfd457898e3e77bbb4e0ba976d767a0573"
 metafile = true
 
 [[files]]

@@ -5,7 +5,7 @@ side = "both"
 [download]
 url = "https://cdn.modrinth.com/data/D71eHs2Y/versions/2MjaJloZ/mtr-east-japan-railway-addon-1.0.1.jar"
 hash-format = "sha256"
-hash = "bb3f312422e15250f4a0b4b90a6b86d067e75052afb8c11226d107e1b38412d6"
+hash = "e3c1fc134130666f5950f18f4fce1c356a6a90d8f7dabe12072fafb900dd00aa"
 
 [update]
 [update.modrinth]
