@@ -46,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-catch.pw.toml"
-hash = "483f95a7e64dc1c529a842a406b0cea83c69e2878eb409df107079e03837f6d4"
+hash = "227a51d05f2554af435a4390c23596f74792394ae295f944677ac72712c0a7c6"
 metafile = true
 
 [[files]]
@@ -266,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/mtr3-next-technology-addon.pw.toml"
-hash = "683d1146b37259d89da41fb2b3a8dcc36508089886c79694fd193daca9f54691"
+hash = "9cfa0e99d17e73430fb211dd98872e66f2db693a4e75bb95da87aed9919f1ac5"
 metafile = true
 
 [[files]]

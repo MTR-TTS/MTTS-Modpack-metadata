@@ -5,7 +5,7 @@ side = "both"
 [download]
 url = "https://cdn.modrinth.com/data/TmBICWlw/versions/xkg6E6PX/mtr3-next-technology-addon-1.2.4.jar"
 hash-format = "sha256"
-hash = "85a306f0b45a324f61651626c69a79086f6e31016f062a93b009347d73f98d57"
+hash = "7502eee12e6c1509d08e75f5752ade32d3664a70d50ae128b4d7e6b1c2102366"
 
 [update]
 [update.modrinth]
