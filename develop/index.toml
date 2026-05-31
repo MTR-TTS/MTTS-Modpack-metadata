@@ -65,11 +65,6 @@ hash = "e3444f8a4040e89ff9546279e559a60a9a6fd5247909284d6635dc67911719e5"
 metafile = true
 
 [[files]]
-file = "mods/entity-view-distance.pw.toml"
-hash = "a86c0ba442c87fce1b05dafa06a359b239da122c69d25ef9a95793fbba25cbb6"
-metafile = true
-
-[[files]]
 file = "mods/entityculling-fabric-1-6-1-mc1-19-2-jar.pw.toml"
 hash = "0e945056987f5ce1a6167fb8055fdbb18c89bddc1551b491019d50fe6b88a8cd"
 metafile = true
@@ -175,8 +170,8 @@ hash = "63b85fdf24be057f64bf0e4dcaa89bfabcbd7c107698c0a26823a34f1e4da620"
 metafile = true
 
 [[files]]
-file = "mods/manual-enchance.pw.toml"
-hash = "c6c6af21ef69b2b4e28b581e399e5b645c277cbd3d6b15e716e19bca9b960bf1"
+file = "mods/manual-enchance-fabric-0-2-1-beta-1-19-2-jar.pw.toml"
+hash = "10b298c27c3a524869ac175a0b4d3148111111a56b2a3652c8a89c391e9f3258"
 metafile = true
 
 [[files]]
@@ -236,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/mtr-east-japan-railway-addon.pw.toml"
-hash = "29b6709b4a9a43a48d9ecd79e0b6f69327f1158e24ba78d1790624c96870804b"
+hash = "a51b9b1f034e6bff0a10df568bd5ac1c9889b1736de49653887299f9344ea75c"
 metafile = true
 
 [[files]]
@@ -271,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-simple-frames.pw.toml"
-hash = "89bea6030b174bc6bd7d1caf20aa2961c499dbd6be9bfa05494bd478d3b689d5"
+hash = "c9843fbdc541324fe845fa0c7c3e98fd5cc50b989a24cea54da50685e375e590"
 metafile = true
 
 [[files]]
@@ -315,11 +310,6 @@ hash = "26db301a1d6b702712097f216d5212c6b5c6fcc365d52f8d5811a25e8b2350fe"
 metafile = true
 
 [[files]]
-file = "mods/timeoutout.pw.toml"
-hash = "a83c58dc2bf009bcdda3f08c454c6291a22d8a371e242b317178cb33f1b89730"
-metafile = true
-
-[[files]]
 file = "mods/trafficcraft-fabric-1-19-2-1-1-3-jar.pw.toml"
 hash = "6c4fdcc884eaec70d9c4f767000f3f1955fa88d49835a025c302c7fe837f3773"
 metafile = true
@@ -335,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/wirelessredstone.pw.toml"
-hash = "c86b181171a5ddc0bf3018db4212b3cfd457898e3e77bbb4e0ba976d767a0573"
+hash = "c604508d5ce149354693981c8a5e64710d255c52ba3de29ea16c2c831fb0616f"
 metafile = true
 
 [[files]]
