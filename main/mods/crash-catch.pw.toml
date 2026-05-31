@@ -1,7 +1,0 @@
-name = "crash-catch"
-filename = "crash-catch-1.0.0.jar"
-
-[download]
-url = "https://github.com/MTR-TTS/MTTS-Modpack-metadata/blob/main/original_mods/crash-catch-1.0.0.jar"
-hash-format = "sha256"
-hash = "812e1250b448696a8698d81dc17892d45086bf4249c809ea14f6b150a423b2a2"
