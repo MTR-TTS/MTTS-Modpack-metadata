@@ -265,11 +265,6 @@ hash = "00aeef23baf61faab218ed0ce0852960830d07c1f9fa8a84ae432ae116cd56ff"
 metafile = true
 
 [[files]]
-file = "mods/notenoughcrashes-5-0-0-1-19-2-fabric-jar.pw.toml"
-hash = "b9951d35557d86ba18390de968c8868387beaa380a1bb02329a1bbfdc0a33689"
-metafile = true
-
-[[files]]
 file = "mods/open-simple-frames.pw.toml"
 hash = "6cb8c3db7883cdb0b10438ae856158e282708a03278e7e5511cde465e40fa85d"
 metafile = true
@@ -320,9 +315,8 @@ hash = "6c4fdcc884eaec70d9c4f767000f3f1955fa88d49835a025c302c7fe837f3773"
 metafile = true
 
 [[files]]
-file = "mods/tts-service-system.pw.toml"
-hash = "0747721888a2505a1e643efbcd2d3918612d07d37f9e6502f4c9fda0ef42cb83"
-metafile = true
+file = "mods/tts-service-system-1.1.9.jar"
+hash = "8375094846c0d186c9359782794cc421eacc2ec3aeff8e3710e77f00f002562b"
 
 [[files]]
 file = "mods/videotape-1-5-1-jar.pw.toml"
