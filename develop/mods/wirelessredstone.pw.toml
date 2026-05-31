@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/2mBYHHZ5/versions/Kvm3sEOC/wirelessredstone-fabric-1.19.2-1.1.1.jar"
-hash-format = "sha512"
-hash = "05a97c3ef511995341a121e3327a7bf94d593062e5c01da64e4d7b307a7844f2f0bfc9717f548e019f00516bb5363be47b0db54a237a3859a33df04fbd7652dc"
+hash-format = "sha256"
+hash = "4239a7b4100ac89f42f4a31a34d69dc696691b6d045cbd615add5c0a49732d82"
 
 [update]
 [update.modrinth]

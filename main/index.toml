@@ -46,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-catch.pw.toml"
-hash = "2403e92b9296a1ea01b33497bd19db404fab2e1bb11b41cf0a41d931295ea9c6"
+hash = "ea8643f7bcce9c0a1e25a32bdd11eeab654fbef6f0e0b584fa6e061046ed7ccc"
 metafile = true
 
 [[files]]
@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5c477b0cd218ed14c178205ad498aa7f3eb1ec56444c2e760e0413e8d520c064"
+hash = "027fec775fa9aaf69013e87eebd6dea938ea8b837c67a1bf7d7081ea266af288"
 metafile = true
 
 [[files]]
@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/j-inf.pw.toml"
-hash = "aac7cc9912525b2d2f98d0eb5a6dafcae273b65e213793de77bc96fab554f68a"
+hash = "1fb9ba4a3b14f0f1c998cd9c525ff9e798c5de62960d7db12a6d994b784a9eb5"
 metafile = true
 
 [[files]]
@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/japaniture.pw.toml"
-hash = "295723e71440c8cb4205092614fbc9e297cd6f796f32a1b56a66f0f34476094f"
+hash = "965ab7b7d4ed9d464e607d7896852b2c9233c4453aeb014d76d0032cf0f09bb3"
 metafile = true
 
 [[files]]
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-roofs.pw.toml"
-hash = "a36027b27c97b974b4ab36477990add74585d475901c802a594646f8d34a3bfe"
+hash = "63b85fdf24be057f64bf0e4dcaa89bfabcbd7c107698c0a26823a34f1e4da620"
 metafile = true
 
 [[files]]
@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/mtr-east-japan-railway-addon.pw.toml"
-hash = "f0beaab94af307284771cdccd1a8f9c212c8084b844351b800786684702a5880"
+hash = "a51b9b1f034e6bff0a10df568bd5ac1c9889b1736de49653887299f9344ea75c"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/mtr3-next-technology-addon.pw.toml"
-hash = "b0b6bd003dc80d848a8aef9522b9ead1891b6757dcef9101b2c4d7b4c8834149"
+hash = "9cfa0e99d17e73430fb211dd98872e66f2db693a4e75bb95da87aed9919f1ac5"
 metafile = true
 
 [[files]]
@@ -271,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-simple-frames.pw.toml"
-hash = "6cb8c3db7883cdb0b10438ae856158e282708a03278e7e5511cde465e40fa85d"
+hash = "c9843fbdc541324fe845fa0c7c3e98fd5cc50b989a24cea54da50685e375e590"
 metafile = true
 
 [[files]]
@@ -330,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/wirelessredstone.pw.toml"
-hash = "158233c5dc25e5c841a6c43e8ee52b4617c1f363350f381de23b3957fb584258"
+hash = "c604508d5ce149354693981c8a5e64710d255c52ba3de29ea16c2c831fb0616f"
 metafile = true
 
 [[files]]
@@ -350,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/yuushya-modelling.pw.toml"
-hash = "4528c3dcc100055b5f92a51c57e5af609a4e561475c84e607c7bafcfbe7b48b4"
+hash = "49026840d322a58cc4068849278a98f438860892ec221356f6ddeecdd67faeb0"
 metafile = true
 
 [[files]]

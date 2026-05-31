@@ -46,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-catch.pw.toml"
-hash = "ebdb25bc49351f64e46f5611ac5fa6e2765f20ff973085d30863c8c0f4731446"
+hash = "9b6d18fa95b65645dcb3fee37638f9e5106959d7f41c4e448d3f6ddee51786fa"
 metafile = true
 
 [[files]]
@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5c477b0cd218ed14c178205ad498aa7f3eb1ec56444c2e760e0413e8d520c064"
+hash = "027fec775fa9aaf69013e87eebd6dea938ea8b837c67a1bf7d7081ea266af288"
 metafile = true
 
 [[files]]
@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/j-inf.pw.toml"
-hash = "aac7cc9912525b2d2f98d0eb5a6dafcae273b65e213793de77bc96fab554f68a"
+hash = "1fb9ba4a3b14f0f1c998cd9c525ff9e798c5de62960d7db12a6d994b784a9eb5"
 metafile = true
 
 [[files]]
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-roofs.pw.toml"
-hash = "a36027b27c97b974b4ab36477990add74585d475901c802a594646f8d34a3bfe"
+hash = "63b85fdf24be057f64bf0e4dcaa89bfabcbd7c107698c0a26823a34f1e4da620"
 metafile = true
 
 [[files]]
@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/mtr-east-japan-railway-addon.pw.toml"
-hash = "f0beaab94af307284771cdccd1a8f9c212c8084b844351b800786684702a5880"
+hash = "a51b9b1f034e6bff0a10df568bd5ac1c9889b1736de49653887299f9344ea75c"
 metafile = true
 
 [[files]]
@@ -266,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/mtr3-next-technology-addon.pw.toml"
-hash = "b0b6bd003dc80d848a8aef9522b9ead1891b6757dcef9101b2c4d7b4c8834149"
+hash = "9cfa0e99d17e73430fb211dd98872e66f2db693a4e75bb95da87aed9919f1ac5"
 metafile = true
 
 [[files]]
@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-simple-frames.pw.toml"
-hash = "6cb8c3db7883cdb0b10438ae856158e282708a03278e7e5511cde465e40fa85d"
+hash = "c9843fbdc541324fe845fa0c7c3e98fd5cc50b989a24cea54da50685e375e590"
 metafile = true
 
 [[files]]
@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/wirelessredstone.pw.toml"
-hash = "158233c5dc25e5c841a6c43e8ee52b4617c1f363350f381de23b3957fb584258"
+hash = "c604508d5ce149354693981c8a5e64710d255c52ba3de29ea16c2c831fb0616f"
 metafile = true
 
 [[files]]
