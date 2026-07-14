@@ -354,5 +354,9 @@ hash = "a855aa5afa4fb9294a0dabe6f7ad3a5a3815c2b6d4034ceabfa95953d9091c67"
 metafile = true
 
 [[files]]
+file = "resourcepacks/Japaniture_resource_pack.zip"
+hash = "dab8e5e61b797800dce1eb8d8175e0f91c21c683d462f144efa95f447216a1ed"
+
+[[files]]
 file = "servers.dat"
 hash = "bbffcd395bcf8129d4fa1280d8eafd0151ee54016d72fc613a569a37768608ec"
