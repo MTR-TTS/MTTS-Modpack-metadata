@@ -260,6 +260,11 @@ hash = "f6be865a2a5d00ff26a4788ace90cc6b0d1e761357cd0f7d6cb2d8bf3988e85b"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-restrictions.pw.toml"
+hash = "1a31f90d7aa97e3e98885c454654be8510218da16cb2d4beb74752f550ce5a59"
+metafile = true
+
+[[files]]
 file = "mods/nochatreports-fabric-1-19-2-v1-13-12-jar.pw.toml"
 hash = "00aeef23baf61faab218ed0ce0852960830d07c1f9fa8a84ae432ae116cd56ff"
 metafile = true
