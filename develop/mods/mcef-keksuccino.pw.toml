@@ -1,6 +1,6 @@
 name = "MCEF [Keksuccino's Fork]"
 filename = "mcef_fabric_2.2.0_MC_1.19.2.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/bQhBuv7x/versions/kDIATMxU/mcef_fabric_2.2.0_MC_1.19.2.jar"

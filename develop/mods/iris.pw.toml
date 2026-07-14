@@ -14,4 +14,4 @@ version = "LgOJIpIS"
 
 [option]
 optional = true
-description = "シェーダー読み込みmod。DistantHorizonsとの互換性なし"
+description = "影Mod。Distant Horizonsとの互換性なし"
