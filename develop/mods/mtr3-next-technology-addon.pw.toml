@@ -1,13 +1,13 @@
 name = "MTR3 Next Technology Addon"
-filename = "mtr3-next-technology-addon-1.2.5.jar"
+filename = "mtr3-next-technology-addon-1.2.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/TmBICWlw/versions/ITrb6yac/mtr3-next-technology-addon-1.2.5.jar"
+url = "https://cdn.modrinth.com/data/TmBICWlw/versions/pUHogYnB/mtr3-next-technology-addon-1.2.6.jar"
 hash-format = "sha512"
-hash = "e3527292f5937187795e083d50ce96bc5479332387fa56d694781d2fe237536038ff29d529f865f721d0a9e29b3efcf14dd818f45e5fa6102aa802d7c2da6a38"
+hash = "ecaa57baa7ef701af888f19d2d7e220a2f1d6a527475be93a24f786f9beeb459437ccdf0b9a90423d17460daaf185fcfdccf81648efde1879245b30a9acd455c"
 
 [update]
 [update.modrinth]
 mod-id = "TmBICWlw"
-version = "ITrb6yac"
+version = "pUHogYnB"
