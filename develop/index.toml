@@ -315,8 +315,8 @@ hash = "8f1ab933c0a6a16c87909395218c86401cdf1f5363594b22ab56f5974e4ca847"
 metafile = true
 
 [[files]]
-file = "mods/tts-service-system-1.2.2-hotfix-2.jar"
-hash = "cd3f4644f5dbeafbc383a9a424d1fcb203e1b68dd4825588b4affc8567ca136d"
+file = "mods/tts-service-system-1.2.2-hotfix-3.jar"
+hash = "3f92e6b33f83bd262523b2e50415f12fc6d6e1208c97f457760e5a2f46e05c02"
 
 [[files]]
 file = "mods/videotape.pw.toml"
